@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="pomodoro_technique_string">Pomodoro Technique</string>
+    <string name="_20_20_20_rule_string">20/20/20 Rule</string>
+    <string name="drinking_water_string">Drinking Water</string>
+    <string name="focus_time_total_time__string">Focus Time(total time)</string>
+    <string name="hour_string">Hour</string>
+    <string name="minutes_string">Minutes</string>
+    <string name="_02_string">02</string>
+    <string name="_30_string">30</string>
+    <string name="app_name_workefi">WorkEfi</string>
+    <string name="content_description">Description of the purpose of the view</string>
+</resources>
